@@ -1,0 +1,32 @@
+{
+    "name": "poseshift-datadog-demo",
+    "version": "1.0.0",
+    "description": "AI Pose Transformation with Datadog LLM Observability & APM",
+    "main": "lib/index.js",
+    "scripts": {
+        "build": "tsc",
+        "traffic": "node scripts/traffic_generator.js"
+    },
+    "keywords": [
+        "datadog",
+        "llm-observability",
+        "apm",
+        "firebase-functions",
+        "gemini-api"
+    ],
+    "author": "PoseShift Team",
+    "license": "MIT",
+    "engines": {
+        "node": "20"
+    },
+    "dependencies": {
+        "@datadog/serverless-compat": "^0.1.0",
+        "@google/genai": "^0.1.0",
+        "dd-trace": "^5.23.0",
+        "firebase-admin": "^12.7.0",
+        "firebase-functions": "^5.1.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
