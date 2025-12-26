@@ -1,9 +1,32 @@
-# PoseShift AI - Datadog LLM Observability Demo
+# PoseShift AI — Datadog LLM Observability Demo
+
+> 🏆 **Submission for AI Partner Catalyst Hackathon - Datadog Challenge**
 
 Creating perfect pose transformations with AI, monitored end-to-end by Datadog.
 
+---
+
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| **🎬 Demo Video** | [YouTube](https://youtu.be/SvihzFPAgoA) |
+| **🌐 Live Application** | [poseshift.mossecho.cn](https://poseshift.mossecho.cn) |
+| **📊 Datadog Organization** | Shenzhen Zhi... |
+
+---
+
+## 👋 About the Developer
+
+Hi! I'm **Max**, a solo developer with **no formal programming background**. 
+
+This is my **first-ever software project** — built entirely from scratch while learning along the way. Every feature, every bug fix, every line of code was a learning experience.
+
+I would **love your feedback** — whether it's suggestions for improvement, bug reports, or just a hello! 🙏
+
+---
+
 ![Datadog Dashboard](./docs/screenshots/dashboard.png)
-*(Note: Please add your dashboard screenshot to docs/screenshots/dashboard.png)*
 
 ## 🚀 Overview
 
