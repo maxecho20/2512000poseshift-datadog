@@ -12,7 +12,7 @@ Creating perfect pose transformations with AI, monitored end-to-end by Datadog.
 |----------|------|
 | **🎬 Demo Video** | [YouTube](https://youtu.be/Pb90KwYupK4) |
 | **🌐 Live Application** | [poseshift.mossecho.cn](https://poseshift.mossecho.cn) |
-| **📊 Datadog Organization** | Shenzhen Zhi... |
+| **📊 Datadog Account** | qzyecho354912808@gmail.com |
 
 ---
 
